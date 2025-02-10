@@ -1,6 +1,6 @@
 # BdiExamen-Bansi
 Recopilatorio de proyectos del examen Técnico
-
+Caracteristicas: Todos los proyectos estan hechos con Net 8
 
 El proyecto consta de 6 carpetas
 Assambly: Es un compilado de la DLL apiexamen
