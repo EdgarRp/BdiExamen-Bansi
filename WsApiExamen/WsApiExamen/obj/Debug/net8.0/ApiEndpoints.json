@@ -1,0 +1,192 @@
+[
+  {
+    "ContainingType": "WsApiExamen.Controllers.ExamenController",
+    "Method": "Update",
+    "RelativePath": "Examen/ActualizarExamen",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WsApiExamen.Data.Models.Exam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WsApiExamen.Data.Models.Response.ApiResponse\u00601[[WsApiExamen.Data.Models.Exam, WsApiExamen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "EndpointName": "ActualizarExamen"
+  },
+  {
+    "ContainingType": "WsApiExamen.Controllers.ExamenController",
+    "Method": "Add",
+    "RelativePath": "Examen/AgregarExamen",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WsApiExamen.Data.Models.Exam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WsApiExamen.Data.Models.Response.ApiResponse\u00601[[WsApiExamen.Data.Models.Exam, WsApiExamen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "EndpointName": "AgregarExamen"
+  },
+  {
+    "ContainingType": "WsApiExamen.Controllers.ExamenController",
+    "Method": "GetById",
+    "RelativePath": "Examen/ConsultarExamen",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WsApiExamen.Data.Models.Response.ApiResponse\u00601[[WsApiExamen.Data.Models.Exam, WsApiExamen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "EndpointName": "ConsultarExamen"
+  },
+  {
+    "ContainingType": "WsApiExamen.Controllers.ExamenController",
+    "Method": "GetExams",
+    "RelativePath": "Examen/ConsultarExamenes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WsApiExamen.Data.Models.Response.ApiResponse\u00601[[System.Collections.Generic.List\u00601[[WsApiExamen.Data.Models.Exam, WsApiExamen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "EndpointName": "ConsultarExamenes"
+  },
+  {
+    "ContainingType": "WsApiExamen.Controllers.ExamenController",
+    "Method": "Delete",
+    "RelativePath": "Examen/EliminarExamen",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WsApiExamen.Data.Models.Response.ApiResponse\u00601[[WsApiExamen.Data.Models.Exam, WsApiExamen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "EndpointName": "EliminarExamen"
+  }
+]

@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|d:\\workstation\\edgar eduardo roque\\webapp\\webappbdiexamen\\webappbdiexamen\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|solutionrelative:webappbdiexamen\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|d:\\workstation\\edgar eduardo roque\\webapp\\webappbdiexamen\\webappbdiexamen\\models\\modelexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|solutionrelative:webappbdiexamen\\models\\modelexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|d:\\workstation\\edgar eduardo roque\\webapp\\webappbdiexamen\\webappbdiexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|solutionrelative:webappbdiexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|d:\\workstation\\edgar eduardo roque\\webapp\\webappbdiexamen\\webappbdiexamen\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|solutionrelative:webappbdiexamen\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|d:\\workstation\\edgar eduardo roque\\webapp\\webappbdiexamen\\webappbdiexamen\\webappbdiexamen.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|solutionrelative:webappbdiexamen\\webappbdiexamen.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|d:\\workstation\\edgar eduardo roque\\webapp\\webappbdiexamen\\webappbdiexamen\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|solutionrelative:webappbdiexamen\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|d:\\workstation\\edgar eduardo roque\\webapp\\webappbdiexamen\\webappbdiexamen\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|solutionrelative:webappbdiexamen\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|d:\\workstation\\edgar eduardo roque\\webapp\\webappbdiexamen\\webappbdiexamen\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BFCA0D6-3ECB-4750-B4D2-99C640A944A6}|WebAppBdiExamen\\WebAppBdiExamen.csproj|solutionrelative:webappbdiexamen\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppBdiExamen\\Program.cs",
+              "ToolTip": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Program.cs",
+              "RelativeToolTip": "WebAppBdiExamen\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:58:47.639Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelExam.cs",
+              "DocumentMoniker": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Models\\ModelExam.cs",
+              "RelativeDocumentMoniker": "WebAppBdiExamen\\Models\\ModelExam.cs",
+              "ToolTip": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Models\\ModelExam.cs",
+              "RelativeToolTip": "WebAppBdiExamen\\Models\\ModelExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T04:54:43.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "WebAppBdiExamen\\Components\\Routes.razor",
+              "ToolTip": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Components\\Routes.razor",
+              "RelativeToolTip": "WebAppBdiExamen\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T01:35:21.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebAppBdiExamen",
+              "DocumentMoniker": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\WebAppBdiExamen.csproj",
+              "RelativeDocumentMoniker": "WebAppBdiExamen\\WebAppBdiExamen.csproj",
+              "ToolTip": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\WebAppBdiExamen.csproj",
+              "RelativeToolTip": "WebAppBdiExamen\\WebAppBdiExamen.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T22:50:11.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WebAppBdiExamen\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "WebAppBdiExamen\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAawHIBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T22:45:35.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Components\\App.razor",
+              "RelativeDocumentMoniker": "WebAppBdiExamen\\Components\\App.razor",
+              "ToolTip": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Components\\App.razor",
+              "RelativeToolTip": "WebAppBdiExamen\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T22:45:15.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "WebAppBdiExamen\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "WebAppBdiExamen\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T22:44:40.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "WebAppBdiExamen\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "WebAppBdiExamen\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T22:44:35.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

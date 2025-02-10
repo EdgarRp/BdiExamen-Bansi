@@ -1,0 +1,24 @@
+D:\Workstation\API Examen\Libreria de Acceso\apiexamen\apiexamen\bin\Release\net8.0\apiexamen.deps.json
+D:\Workstation\API Examen\Libreria de Acceso\apiexamen\apiexamen\bin\Release\net8.0\apiexamen.dll
+D:\Workstation\API Examen\Libreria de Acceso\apiexamen\apiexamen\bin\Release\net8.0\apiexamen.pdb
+D:\Workstation\API Examen\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.csproj.AssemblyReference.cache
+D:\Workstation\API Examen\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workstation\API Examen\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.AssemblyInfoInputs.cache
+D:\Workstation\API Examen\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.AssemblyInfo.cs
+D:\Workstation\API Examen\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.csproj.CoreCompileInputs.cache
+D:\Workstation\API Examen\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.dll
+D:\Workstation\API Examen\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\refint\apiexamen.dll
+D:\Workstation\API Examen\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.pdb
+D:\Workstation\API Examen\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\ref\apiexamen.dll
+D:\Workstation\Edgar Eduardo Roque\Libreria de Acceso\apiexamen\apiexamen\bin\Release\net8.0\apiexamen.deps.json
+D:\Workstation\Edgar Eduardo Roque\Libreria de Acceso\apiexamen\apiexamen\bin\Release\net8.0\apiexamen.dll
+D:\Workstation\Edgar Eduardo Roque\Libreria de Acceso\apiexamen\apiexamen\bin\Release\net8.0\apiexamen.pdb
+D:\Workstation\Edgar Eduardo Roque\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.csproj.AssemblyReference.cache
+D:\Workstation\Edgar Eduardo Roque\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workstation\Edgar Eduardo Roque\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.AssemblyInfoInputs.cache
+D:\Workstation\Edgar Eduardo Roque\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.AssemblyInfo.cs
+D:\Workstation\Edgar Eduardo Roque\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.csproj.CoreCompileInputs.cache
+D:\Workstation\Edgar Eduardo Roque\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.dll
+D:\Workstation\Edgar Eduardo Roque\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\refint\apiexamen.dll
+D:\Workstation\Edgar Eduardo Roque\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\apiexamen.pdb
+D:\Workstation\Edgar Eduardo Roque\Libreria de Acceso\apiexamen\apiexamen\obj\Release\net8.0\ref\apiexamen.dll

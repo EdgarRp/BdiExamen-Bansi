@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebAppBdiExamen.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebAppBdiExamen.rcn7feie4r.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Workstation\\Edgar Eduardo Roque\\WebApp\\WebAppBdiExamen\\WebAppBdiExamen\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAppBdiExamen.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAppBdiExamen.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebAppBdiExamen.props",
+      "PackagePath": "build\\WebAppBdiExamen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAppBdiExamen.props",
+      "PackagePath": "buildMultiTargeting\\WebAppBdiExamen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebAppBdiExamen.props",
+      "PackagePath": "buildTransitive\\WebAppBdiExamen.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

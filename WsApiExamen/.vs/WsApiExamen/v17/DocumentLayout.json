@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workstation\\API Examen\\WsApiExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|d:\\workstation\\api examen\\wsapiexamen\\wsapiexamen\\controllers\\examencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|solutionrelative:wsapiexamen\\controllers\\examencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|d:\\workstation\\api examen\\wsapiexamen\\wsapiexamen\\data\\services\\interface\\iexammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|solutionrelative:wsapiexamen\\data\\services\\interface\\iexammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|d:\\workstation\\api examen\\wsapiexamen\\wsapiexamen\\data\\services\\exammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|solutionrelative:wsapiexamen\\data\\services\\exammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|d:\\workstation\\api examen\\wsapiexamen\\wsapiexamen\\data\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|solutionrelative:wsapiexamen\\data\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|d:\\workstation\\api examen\\wsapiexamen\\wsapiexamen\\data\\entities\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|solutionrelative:wsapiexamen\\data\\entities\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|d:\\workstation\\api examen\\wsapiexamen\\wsapiexamen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|solutionrelative:wsapiexamen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|d:\\workstation\\api examen\\wsapiexamen\\wsapiexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|solutionrelative:wsapiexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|d:\\workstation\\api examen\\wsapiexamen\\wsapiexamen\\data\\services\\helper\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|solutionrelative:wsapiexamen\\data\\services\\helper\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|d:\\workstation\\api examen\\wsapiexamen\\wsapiexamen\\data\\wsapiexamendbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|solutionrelative:wsapiexamen\\data\\wsapiexamendbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|d:\\workstation\\api examen\\wsapiexamen\\wsapiexamen\\wsapiexamen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75050B86-8016-4AF7-B39C-E0D9ECA29544}|WsApiExamen\\WsApiExamen.csproj|solutionrelative:wsapiexamen\\wsapiexamen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Data\\Entities\\Exam.cs",
+              "RelativeDocumentMoniker": "WsApiExamen\\Data\\Entities\\Exam.cs",
+              "ToolTip": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Data\\Entities\\Exam.cs",
+              "RelativeToolTip": "WsApiExamen\\Data\\Entities\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:01:01.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Data\\Entities\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "WsApiExamen\\Data\\Entities\\Response\\ApiResponse.cs",
+              "ToolTip": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Data\\Entities\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "WsApiExamen\\Data\\Entities\\Response\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:47:09.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\appsettings.json",
+              "RelativeDocumentMoniker": "WsApiExamen\\appsettings.json",
+              "ToolTip": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\appsettings.json",
+              "RelativeToolTip": "WsApiExamen\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T20:36:19.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamenController.cs",
+              "DocumentMoniker": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Controllers\\ExamenController.cs",
+              "RelativeDocumentMoniker": "WsApiExamen\\Controllers\\ExamenController.cs",
+              "ToolTip": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Controllers\\ExamenController.cs",
+              "RelativeToolTip": "WsApiExamen\\Controllers\\ExamenController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:39:08.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IExamManager.cs",
+              "DocumentMoniker": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Data\\Services\\Interface\\IExamManager.cs",
+              "RelativeDocumentMoniker": "WsApiExamen\\Data\\Services\\Interface\\IExamManager.cs",
+              "ToolTip": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Data\\Services\\Interface\\IExamManager.cs",
+              "RelativeToolTip": "WsApiExamen\\Data\\Services\\Interface\\IExamManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:43:12.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExamManager.cs",
+              "DocumentMoniker": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Data\\Services\\ExamManager.cs",
+              "RelativeDocumentMoniker": "WsApiExamen\\Data\\Services\\ExamManager.cs",
+              "ToolTip": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Data\\Services\\ExamManager.cs",
+              "RelativeToolTip": "WsApiExamen\\Data\\Services\\ExamManager.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAtwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:42:30.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Program.cs",
+              "RelativeDocumentMoniker": "WsApiExamen\\Program.cs",
+              "ToolTip": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Program.cs",
+              "RelativeToolTip": "WsApiExamen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:28:58.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Data\\Services\\Helper\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "WsApiExamen\\Data\\Services\\Helper\\TransactionRepository.cs",
+              "ToolTip": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Data\\Services\\Helper\\TransactionRepository.cs",
+              "RelativeToolTip": "WsApiExamen\\Data\\Services\\Helper\\TransactionRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T22:03:40.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WsApiExamen.csproj",
+              "DocumentMoniker": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\WsApiExamen.csproj",
+              "RelativeDocumentMoniker": "WsApiExamen\\WsApiExamen.csproj",
+              "ToolTip": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\WsApiExamen.csproj",
+              "RelativeToolTip": "WsApiExamen\\WsApiExamen.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T19:41:25.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WsApiExamenDbContext.cs",
+              "DocumentMoniker": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Data\\WsApiExamenDbContext.cs",
+              "RelativeDocumentMoniker": "WsApiExamen\\Data\\WsApiExamenDbContext.cs",
+              "ToolTip": "D:\\Workstation\\API Examen\\WsApiExamen\\WsApiExamen\\Data\\WsApiExamenDbContext.cs",
+              "RelativeToolTip": "WsApiExamen\\Data\\WsApiExamenDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:24:08.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workstation\\Edgar Eduardo Roque\\Project Test DLL\\TestDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F60A3F22-3478-4610-9728-09F6B7E7A069}|TestDLL\\TestDLL.csproj|d:\\workstation\\edgar eduardo roque\\project test dll\\testdll\\testdll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60A3F22-3478-4610-9728-09F6B7E7A069}|TestDLL\\TestDLL.csproj|solutionrelative:testdll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60A3F22-3478-4610-9728-09F6B7E7A069}|TestDLL\\TestDLL.csproj|d:\\workstation\\edgar eduardo roque\\project test dll\\testdll\\testdll\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F60A3F22-3478-4610-9728-09F6B7E7A069}|TestDLL\\TestDLL.csproj|solutionrelative:testdll\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Workstation\\Edgar Eduardo Roque\\Project Test DLL\\TestDLL\\TestDLL\\App.config",
+              "RelativeDocumentMoniker": "TestDLL\\App.config",
+              "ToolTip": "D:\\Workstation\\Edgar Eduardo Roque\\Project Test DLL\\TestDLL\\TestDLL\\App.config",
+              "RelativeToolTip": "TestDLL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-09T22:07:06.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workstation\\Edgar Eduardo Roque\\Project Test DLL\\TestDLL\\TestDLL\\Program.cs",
+              "RelativeDocumentMoniker": "TestDLL\\Program.cs",
+              "ToolTip": "D:\\Workstation\\Edgar Eduardo Roque\\Project Test DLL\\TestDLL\\TestDLL\\Program.cs",
+              "RelativeToolTip": "TestDLL\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:02:51.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
