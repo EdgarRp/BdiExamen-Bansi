@@ -1,4 +1,6 @@
 # BdiExamen-Bansi
+
+Nombre del candidato: Edgar Eduardo Roque Ponce
 Recopilatorio de proyectos del examen Técnico
 Caracteristicas: Todos los proyectos estan hechos con Net 8
 
